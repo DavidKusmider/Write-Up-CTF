@@ -35,6 +35,7 @@ The repository is organized as follows:
       - `Pawn`
       - `Reversing`
       - `Web`
+      - ...
     - `Machines`
       - `Starting-Point`
       - `Easy`
@@ -46,10 +47,10 @@ The repository is organized as follows:
   - `Root-Me`
     - `Capture-The-Flag`
     - `Challenges`
-      - `Forensic`
       - `Network`
       - `Web-Client`
       - `Web-Server`
+      - ...
   - `TryHackMe`
     - `Easy`
     - `Medium`

